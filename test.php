@@ -1,11 +1,3 @@
 <?php
 echo 'HELLO';
-echo "world \n";
-echo
-bb
-hh
-ccc
-nono
-nono
-nono
-nono
+echo "world world world world world world world world world world world world world world world world world world world world world \n";
