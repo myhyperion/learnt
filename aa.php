@@ -6,3 +6,7 @@ if ($a == $b) {
 } else {
     echo 4;
 }
+
+for ($i = 0; $i < 3; $i++) {
+    echo $i;
+}
