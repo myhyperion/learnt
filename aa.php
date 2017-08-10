@@ -7,6 +7,7 @@ if ($a == $b) {
     echo 4;
 }
 
-for ($i = 0; $i < 3; $i++) {
+for($i = 0; $i < 3; $i++)
+{
     echo $i;
 }
